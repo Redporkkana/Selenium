@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccda26a9-9d5c-46f0-9550-ac354ca2de8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chains/test_chains.py" afterDir="false" />
-    </list>
+    <list default="true" id="ccda26a9-9d5c-46f0-9550-ac354ca2de8f" name="Changes" comment="Selenium tests, finding elements, action chains for performing UI interactions requiring multiple steps" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,12 +110,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722242506415</updated>
-      <workItem from="1722242508289" duration="2322000" />
+      <workItem from="1722242508289" duration="2662000" />
     </task>
+    <task id="LOCAL-00001" summary="Selenium tests, finding elements, action chains for performing UI interactions requiring multiple steps">
+      <option name="closed" value="true" />
+      <created>1722245168338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722245168338</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selenium tests, finding elements, action chains for performing UI interactions requiring multiple steps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium tests, finding elements, action chains for performing UI interactions requiring multiple steps" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Selenium$.coverage" NAME=" Coverage Results" MODIFIED="1722244831617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chains" />
